@@ -97,11 +97,11 @@ Built a community of 2500+ Data Scientists on Instagram by generating quality co
 
 ### Research Thesis 
 
-Knowledge tracing, is the personation of student knowledge over time with advanced machine learning algorithms. The model builds on more than 13 Crore interactions of more than 7 lakh students. 
+Framework build to predict mood of the person by analysis the choice of the music listening and created an AI based machine learning model that can generate a happy and relaxing music to improve mood. 
 
 ### Tools | Frameworks 
 
-Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
+Database: SQL, MongoDB, BigQuery.
 
 Data Preprocessing: NumPy, Pandas. 
 
