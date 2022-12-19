@@ -39,7 +39,7 @@ Innovative Data Scientist with 3+ years of experience in Software Development an
 
 • Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website. 
 
-• Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django. 
+• Expertise in Full Web Stack libraries like Django, Flask. 
 
 • In-depth understanding of Python, SQL and Big Data Technologies. 
 
