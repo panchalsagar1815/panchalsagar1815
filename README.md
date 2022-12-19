@@ -1,14 +1,15 @@
+<!---
 - 👋 Hi, My name is Sagar Panchal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+--->
 <!---
 panchalsagar1815/panchalsagar1815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi 👋 My name is Himanshu Ramchandani
+Hi 👋 My name is Sagar Panchal
 =====================================
 
 Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
