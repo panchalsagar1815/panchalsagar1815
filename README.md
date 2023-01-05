@@ -14,7 +14,7 @@ Hi 👋 My name is Sagar Panchal
 
 Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
 ------------------------------------
-![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=panchalsagar1815&label=PROFILE+VIEWS)
 <!---
 * 🌍  Notes on Artificial Intelligence [Himanshu Ramchandani](https://www.himanshuramchandani.co/)
 * ✉️  You can contact me at [connect@himanshuramchandani.co](mailto:connect@himanshuramchandani.co)
