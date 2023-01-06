@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-t
 <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sagar-ppanchal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <!--- <a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> ---> </p>
 
 
-Innovative Data Scientist with 3+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
+Innovative Data Scientist with 5+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
 
 • 3+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
 
