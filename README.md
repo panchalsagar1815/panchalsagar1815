@@ -37,7 +37,7 @@ Innovative Data Scientist with 5+ years of experience in Software Development an
 
 • Experience in Functional and Object-Oriented Programming styles of Python and Javascript. 
 
-• Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website. 
+• Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS-enabled website. 
 
 • Expertise in Full Web Stack libraries like Django, Flask. 
 
