@@ -76,6 +76,17 @@ Innovative Data Scientist with 5+ years of experience in Software Development an
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
 </p>
 
+
+<!-- ### Mentor
+
+Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn. 
+
+Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons. 
+
+400+ Free sessions on Python and Machine Learning. 
+
+Built a community of 2500+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision.  -->
+
 ⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
 
 ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers. 
@@ -88,19 +99,9 @@ Innovative Data Scientist with 5+ years of experience in Software Development an
 
 😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India. 
 
-<!-- ### Mentor
-
-Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn. 
-
-Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons. 
-
-400+ Free sessions on Python and Machine Learning. 
-
-Built a community of 2500+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision.  -->
-
 ### Research Thesis 
 
-Framework build to predict mood of the person by analysis the choice of the music listening and created an AI based machine learning model that can generate a happy and relaxing music to improve mood. 
+Framework build to predict the mood of the person by analysing the choice of the music listening and created an AI-based machine learning model that can generate happy and relaxing music to improve mood. 
 
 ### Tools | Frameworks 
 
