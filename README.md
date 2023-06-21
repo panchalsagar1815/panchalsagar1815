@@ -1,11 +1,8 @@
 
-panchalsagar1815/panchalsagar1815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hi 👋 My name is Sagar Panchal
 =====================================
 
-Data Analyst | Python N | Help businesses make data-driven decisions and build AI-Powered data products.
+Data Analyst | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=panchalsagar1815&label=PROFILE+VIEWS)
 <!---
@@ -92,7 +89,7 @@ Built a community of 2500+ Data Scientists on Instagram by generating quality co
 
 ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers. 
 
-⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence. 
+⚡ Monitoring and generating Analytical reports on the institution data for admission and academics.
 
 😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector. 
 
@@ -121,7 +118,7 @@ Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
 Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 
-<!-- ### Badges
+### Badges
 
 <b>My GitHub Stats</b>
 
