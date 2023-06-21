@@ -1,18 +1,11 @@
-<!---
-- 👋 Hi, My name is Sagar Panchal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
+
 panchalsagar1815/panchalsagar1815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 Hi 👋 My name is Sagar Panchal
 =====================================
 
-Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
+Data Analyst | Python N | Help businesses make data-driven decisions and build AI-Powered data products.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=panchalsagar1815&label=PROFILE+VIEWS)
 <!---
@@ -33,13 +26,21 @@ src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-t
 
 Innovative Data Scientist with 5+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
 
-• 3+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments.
+• Holds a Master's degree in Big Data and Business Analytics, with a focus on data to drive informed decision-making and improve business efficiency and profitability.
 
-• Experience in Functional and Object-Oriented Programming styles of Python and Javascript. 
+• Proficient in programming languages such as SQL, DAX, Python, R, JavaScript, HTML, and CSS
 
-• Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS-enabled website. 
+• Experienced in platforms and tools including Power BI, Tableau, Git, Spark, Hadoop, and Kafka
 
-• Expertise in Full Web Stack libraries like Django, Flask. 
+• Possess soft skills such as commitment, problem-solving, adaptability, self-motivation, and project leadership
+
+• Completed impactful projects, including energy consumption analysis and CRM software development for a restaurant
+
+• Holds certifications in Google Analytics, Machine Learning, and completed the J.P. Morgan SE Virtual Experience
+
+• Dedicated to delivering high-quality, data-driven solutions for business growth and success.
+
+• Expertise in Full Web Stack libraries like Django and Flask. 
 
 • In-depth understanding of Python, SQL and Big Data Technologies. 
 
