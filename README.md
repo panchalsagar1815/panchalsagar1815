@@ -118,7 +118,7 @@ Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
 Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 
-### Badges
+<!-- ### Badges
 
 <b>My GitHub Stats</b>
 
