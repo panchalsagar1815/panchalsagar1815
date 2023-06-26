@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Sagar Panchal
+Hi 👋 My Name is Sagar Panchal
 =====================================
 
 Data Analyst | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
