@@ -5,15 +5,7 @@ Hi 👋 My Name is Sagar Panchal
 Data Analyst | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=panchalsagar1815&label=PROFILE+VIEWS)
-<!---
-* 🌍  Notes on Artificial Intelligence [Himanshu Ramchandani](https://www.himanshuramchandani.co/)
-* ✉️  You can contact me at [connect@himanshuramchandani.co](mailto:connect@himanshuramchandani.co)
 
-
-<a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
---->
 ### Socials
 
 <p align="left"> <a href="https://github.com/panchalsagar1815" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
