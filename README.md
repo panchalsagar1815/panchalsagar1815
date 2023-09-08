@@ -65,6 +65,7 @@ Innovative Data Scientist with 5+ years of experience in Software Development an
 😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India. 
 
 ### Research Thesis 
+### AI in Healthcare : AI-Generated Music To Improve Mental Health
 
 Framework build to predict the mood of the person by analysing the choice of the music listening and created an AI-based machine learning model that can generate happy and relaxing music to improve mood. 
 
