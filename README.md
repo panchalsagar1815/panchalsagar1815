@@ -1,8 +1,9 @@
 
-Hi 👋 My Name is Sagar Panchal
+Hi 👋 Tech Enthusiasts
+I am Sagar Panchal
 =====================================
 
-Data Analyst | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
+Data Analyst | Python NLP | Help businesses make data-driven decisions and build AI-powered data products.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=panchalsagar1815&label=PROFILE+VIEWS)
 
